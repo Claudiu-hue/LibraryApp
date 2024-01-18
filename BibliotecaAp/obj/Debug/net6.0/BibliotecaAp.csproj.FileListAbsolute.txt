@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\BibliotecaAp\BibliotecaAp\bin\Debug\net6.0\BibliotecaAp.exe
+C:\Users\PC\source\repos\BibliotecaAp\BibliotecaAp\bin\Debug\net6.0\BibliotecaAp.deps.json
+C:\Users\PC\source\repos\BibliotecaAp\BibliotecaAp\bin\Debug\net6.0\BibliotecaAp.runtimeconfig.json
+C:\Users\PC\source\repos\BibliotecaAp\BibliotecaAp\bin\Debug\net6.0\BibliotecaAp.dll
+C:\Users\PC\source\repos\BibliotecaAp\BibliotecaAp\bin\Debug\net6.0\BibliotecaAp.pdb
+C:\Users\PC\source\repos\BibliotecaAp\BibliotecaAp\obj\Debug\net6.0\BibliotecaAp.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\BibliotecaAp\BibliotecaAp\obj\Debug\net6.0\BibliotecaAp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\BibliotecaAp\BibliotecaAp\obj\Debug\net6.0\BibliotecaAp.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\BibliotecaAp\BibliotecaAp\obj\Debug\net6.0\BibliotecaAp.AssemblyInfo.cs
+C:\Users\PC\source\repos\BibliotecaAp\BibliotecaAp\obj\Debug\net6.0\BibliotecaAp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BibliotecaAp\BibliotecaAp\obj\Debug\net6.0\BibliotecaAp.dll
+C:\Users\PC\source\repos\BibliotecaAp\BibliotecaAp\obj\Debug\net6.0\refint\BibliotecaAp.dll
+C:\Users\PC\source\repos\BibliotecaAp\BibliotecaAp\obj\Debug\net6.0\BibliotecaAp.pdb
+C:\Users\PC\source\repos\BibliotecaAp\BibliotecaAp\obj\Debug\net6.0\BibliotecaAp.genruntimeconfig.cache
+C:\Users\PC\source\repos\BibliotecaAp\BibliotecaAp\obj\Debug\net6.0\ref\BibliotecaAp.dll
