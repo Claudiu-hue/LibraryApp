@@ -39,7 +39,7 @@ namespace BibliotecaAp
             if (this.ID == id) return true;
             if (this is ElemInHall)
             {
-                ElemInHall elemHall = (ElemInHall)this;
+                ElemInHall elemHall = (ElemInHall)this; // Access elemHall-specific members
                 if (elemHall.AbsElem.ID == id) return true;
             }
             if (this is ElemWithTax)

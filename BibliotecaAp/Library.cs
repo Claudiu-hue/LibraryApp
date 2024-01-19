@@ -145,8 +145,8 @@ namespace BibliotecaAp
                                 if (ElemList<Retention, String>.ElementsList[i].Member_ID == mem.BorrowedElem.RetentedBy)
                                 {
                                     bool remove_ret = retentionsList.RemoveRetention(ElemList<Retention, String>.ElementsList[i], ElemList<Retention, String>.ElementsList[i].ID); // remove retention from retentionslist
-                                    if (remove_ret) { }
-                                    else { }
+                                    //if (remove_ret) { }
+                                    //else { }
                                 }
                             }
                             mem.BorrowedElem.RetentedBy = null;

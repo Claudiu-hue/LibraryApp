@@ -672,7 +672,7 @@ namespace BibliotecaAp
                         do
                         {
                             Console.WriteLine("Insert value (penalty / day) - between 1 and 10: ");
-                            isOptionNumeric = int.TryParse(Console.ReadLine(), out p_val);
+                            isNumeric = int.TryParse(Console.ReadLine(), out p_val);
                             if (!isNumeric) Console.WriteLine("[ERROR] Value must be numeric!");
                             else
                             {
